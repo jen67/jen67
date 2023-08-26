@@ -21,6 +21,6 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 
 ## 💌 Connect With Me
 
-If you're interested in collaborating, have any questions, or simply want to connect, feel free to [drop me a message](mailto:amakrigift2000@gmail.com) or connect with me on [LinkedIn]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/gift-amachree-8a523623b/)).
+If you're interested in collaborating, have any questions, or simply want to connect, feel free to [drop me a message](mailto:amakrigift2000@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gift-amachree-8a523623b/).
 
 **Gift Amachree** - _Turning caffeine into code, one line at a time_ ☕️
