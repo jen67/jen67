@@ -3,6 +3,14 @@
 
 I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things.
 
+<h3 align="center">🚀 Frontend Developer | Lifelong Learner | Tech Enthusiast 🌐</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" alt="Gift's GitHub stats" />
+</p>
+
+---
+
 ## 🌱 About Me
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
@@ -10,20 +18,24 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
 - 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
 
+---
+
 ## 💼 Technical Skills
 
-- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML` 
-- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS` 
-- ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript`
-- ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning)
-- ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language`
-- ![Console](https://img.icons8.com/color/20/console.png)  `Bash`
-- ![Python](https://img.icons8.com/color/20/python.png)  `Python`
-- ![MySQL](https://img.icons8.com/color/20/mysql.png)  `Mysql`
+<p align="center">
+  <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/30/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/30/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/30/c-programming.png" alt="C Language"/>
+  <img src="https://img.icons8.com/color/30/console.png" alt="Bash"/>
+  <img src="https://img.icons8.com/color/30/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/30/mysql.png" alt="Mysql"/>
+</p>
+
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact)
-
-![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jen67)
 
