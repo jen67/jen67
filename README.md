@@ -2,10 +2,12 @@
   <img src="YOUR_PROFILE_PICTURE_LINK" alt="Gift's Avatar" width="150">
 </p>
 
+<h1 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" alt="Gift's GitHub stats" />
 </p>
-<h2 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" alt="Frontend Developer">
   <img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge" alt="Lifelong Learner">
