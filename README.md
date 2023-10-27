@@ -1,4 +1,5 @@
-<h1 >Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
+# Hello, World! 👋 I'm [Gift Amachree](https://github.com/jen67)
+ 
 <p>🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner</p>
 
 <p>
@@ -11,9 +12,8 @@
 - 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
 - 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
 
----
 
-<h3>🔧 Tech Stack</h3>
+## 🔧 Tech Stack
 
 <p>
   <span><img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,18 +27,16 @@
 </p>
 
 
----
 
-<h3>📊 GitHub Stats</h3>
+# 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-<h3>🔗 Connect With Me</h3>
+## 🔗 Connect With Me
 
 If you're interested in collaborating, have any questions, or simply want to connect, feel free to
 
