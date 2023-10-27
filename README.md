@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" alt="Gift's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67" alt="Streak Stats" />
 </p>
 
 ---
