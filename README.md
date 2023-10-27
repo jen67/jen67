@@ -1,5 +1,5 @@
 
-# Hello there! I'm Gift Amachree 👋
+<h1 align="center">Hi there, I'm Gift Amachree 👋</h1>
 
 I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things.
 
@@ -9,7 +9,7 @@ I'm an aspiring frontend developer, passionate about web technologies and always
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" alt="Gift's GitHub stats" />
 </p>
 
----
+
 
 ## 🌱 About Me
 
@@ -18,7 +18,7 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
 - 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
 
----
+
 
 ## 💼 Technical Skills
 
@@ -33,7 +33,7 @@ I'm an aspiring frontend developer, passionate about web technologies and always
   <img src="https://img.icons8.com/color/30/mysql.png" alt="Mysql"/>
 </p>
 
----
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact)
 
