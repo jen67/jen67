@@ -5,8 +5,7 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" alt="Frontend Developer">
-  <img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge" alt="Lifelong Learner">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
