@@ -23,11 +23,10 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; width: 100%;">
-    <iframe width="49%" height="170" src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&custom_title=GitHub%20Stats&line_height=27" frameborder="0"></iframe>
-    <iframe width="49%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact" frameborder="0"></iframe>
+    <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&line_height=27" alt="jen67's GitHub Stats" style="width: 49%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&hide_border=true" alt="jen67's Most Used Languages" style="width: 49%; height: auto;" />
   </div>
 </div>
-
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jen67)
 
