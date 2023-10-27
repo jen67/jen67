@@ -2,12 +2,7 @@
  
  **🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner**
  
-## 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
+## About Me
 <br >
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
