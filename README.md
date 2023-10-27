@@ -2,10 +2,6 @@
  
 <p>🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner</p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
-</p>
-
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
 - 📘 **Lifelong Learner**: Currently diving deep into `React` to further enhance my frontend development skills.
@@ -33,6 +29,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
 </p>
 
 
