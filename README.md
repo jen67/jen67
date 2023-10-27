@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="YOUR_PROFILE_PICTURE_LINK" alt="Gift's Avatar" width="150">
-</p>
 
 <h1>Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
 I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things.
