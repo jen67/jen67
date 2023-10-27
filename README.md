@@ -21,10 +21,9 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - ![Python](https://img.icons8.com/color/20/python.png)  `Python`
 - ![MySQL](https://img.icons8.com/color/20/mysql.png)  `Mysql`
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact)
 
 ![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jen67)
 
