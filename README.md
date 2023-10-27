@@ -1,7 +1,8 @@
 # Hello, World! 👋 I'm [Gift Amachree](https://github.com/jen67)
  
-### 🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner 
+ **🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner**
 
+## About Me
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
 - 📘 **Lifelong Learner**: Currently diving deep into `React` to further enhance my frontend development skills.
@@ -9,7 +10,7 @@
 - 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
 
 
-## 🔧 Tech Stack
+## 🔧 Stacks
 
 <p>
   <span><img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +25,7 @@
 
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
