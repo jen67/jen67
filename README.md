@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
 <p align="center">🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner</p>
 ---
@@ -7,7 +6,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
 </p>
 
----
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
 - 📘 **Lifelong Learner**: Currently diving deep into `React` to further enhance my frontend development skills.
