@@ -9,8 +9,9 @@
 - 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
 - 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
 
-<br />
+
 ## 🔧 Stacks
+<br />
 <p>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
@@ -23,9 +24,8 @@
 </p>
 
 
-
-<br />
 ## 📊 GitHub Stats
+<br />
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
