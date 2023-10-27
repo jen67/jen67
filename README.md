@@ -1,5 +1,5 @@
-# Hello there! I'm Gift Amachree 👋
 
+# Hello there! I'm Gift Amachree 👋
 
 I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things.
 
@@ -12,12 +12,23 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 
 ## 💼 Technical Skills
 
-- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML` - 90%
-- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS` - 85%
-- ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript` - 75%
-- ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning) - 40%
-- ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language` - 50%
-- ![Console](https://img.icons8.com/color/20/console.png) `Bash` - 50%
+- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML`
+- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS`
+- ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript`
+- ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning)
+- ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language`
+- ![Console](https://img.icons8.com/color/20/console.png)  `Bash`
+- ![Python](https://img.icons8.com/color/20/python.png)  `Python`
+- ![MySQL](https://img.icons8.com/color/20/mysql.png)  `Mysql`
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" align="left" style="width: 100%" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact" align="left" style="width: 100%" /></td>
+  </tr>
+</table>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jen67)
 
 ## 💌 Connect With Me
 
