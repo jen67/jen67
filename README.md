@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
+I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things.
 
 
 <p align="center">
@@ -16,11 +17,10 @@
 
 ---
 
-🖥️ **Crafting the Web**: I'm super passionate about web technologies. Always on the lookout for fresh and innovative ideas!
-
-📚 **Lifelong Learning**: Diving deep into `React` and always eager to soak up more. The journey never ends!
-
-🌐 **Let's Collaborate**: Got a cool project? I'm all ears! Let's transform those ideas into digital reality.
+- 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
+- 📘 **Lifelong Learner**: Currently diving deep into `React` to further enhance my frontend development skills.
+- 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
+- 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
 
 ---
 
