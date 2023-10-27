@@ -50,9 +50,12 @@
 
 <h3>🔗 Connect With Me</h3>
 
+If you're interested in collaborating, have any questions, or simply want to connect, feel free to
+
 <p>
   <a href="mailto:amakrigift2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/gift-amachree-8a523623b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<h4 align="center">Turning caffeine into code, one line at a time ☕</h4>
+
+**Gift Amachree** - _Turning caffeine into code, one line at a time_ ☕️
