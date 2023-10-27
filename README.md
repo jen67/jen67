@@ -28,14 +28,14 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 <h3>🔧 Tech Stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Language"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
+- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML` 
+- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS` 
+- ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript` 
+- ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning) 
+- ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language`
+- ![Python](https://img.icons8.com/color/20/python.png) `Python` 
+- ![MySQL](https://img.icons8.com/color/20/mysql.png) [MySQL](https://www.mysql.com/)
+- ![Console](https://img.icons8.com/color/20/console.png) `Bash`
 </p>
 
 ---
