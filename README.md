@@ -1,5 +1,5 @@
 <h1 >Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
-<p align="center">🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner</p>
+<p>🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
@@ -15,9 +15,7 @@
 
 <h3>🔧 Tech Stack</h3>
 
-<h3>🔧 Tech Stack</h3>
-
-<p align="center">
+<p>
   <span><img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span><img src="https://img.icons8.com/color/30/css3.png" alt="CSS3"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span><img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
