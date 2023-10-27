@@ -24,17 +24,18 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 
 <h3>🔧 Tech Stack</h3>
 
-<p align="center">
-  <span><img src="https://img.icons8.com/color/20/html-5.png" alt="HTML5"/> <b>HTML</b></span> &nbsp; 
-  <span><img src="https://img.icons8.com/color/20/css3.png" alt="CSS3"/> <b>CSS</b></span> &nbsp; 
-  <span><img src="https://img.icons8.com/color/20/javascript.png" alt="JavaScript"/> <b>JavaScript</b></span> &nbsp; 
-  <span><img src="https://img.icons8.com/color/20/react-native.png" alt="React"/> <b>React</b> (Learning)</span> &nbsp; 
-  <span><img src="https://img.icons8.com/color/20/c-programming.png" alt="C Language"/> <b>C Language</b></span> &nbsp; 
-  <span><img src="https://img.icons8.com/color/20/python.png" alt="Python"/> <b>Python</b></span> &nbsp; 
-  <span><img src="https://img.icons8.com/color/20/mysql.png" alt="MySQL"/> <b><a href="https://www.mysql.com/">MySQL</a></b></span> &nbsp; 
-  <span><img src="https://img.icons8.com/color/20/console.png" alt="Bash"/> <b>Bash</b></span>
-</p>
+<h3 align="center">🔧 Tech Stack</h3>
 
+<p align="center">
+  <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/30/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/30/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/30/c-programming.png" alt="C Language"/>
+  <img src="https://img.icons8.com/color/30/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/30/mysql.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/30/console.png" alt="Bash"/>
+</p>
 
 ---
 
