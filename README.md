@@ -1,7 +1,4 @@
-
 <h1 align="center">Hi there, I'm Gift Amachree 👋</h1>
-
-I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things.
 
 <h3 align="center">🚀 Frontend Developer | Lifelong Learner | Tech Enthusiast 🌐</h3>
 
@@ -9,18 +6,19 @@ I'm an aspiring frontend developer, passionate about web technologies and always
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" alt="Gift's GitHub stats" />
 </p>
 
+---
 
+🔍 **About Me**
 
-## 🌱 About Me
+I'm an aspiring frontend developer with a knack for web technologies. My journey is fueled by my love for learning and my commitment to pushing the boundaries of what I know.
 
-- 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
-- 📘 **Lifelong Learner**: Currently diving deep into `React` to further enhance my frontend development skills.
-- 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
-- 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
+- 🛠 **Skills**: Crafting user-friendly interfaces with `HTML`, `CSS`, and `JavaScript`.
+- 📘 **Current Focus**: Deep diving into `React` to elevate my frontend game.
+- 🤝 **Open Doors**: On the lookout for internships & collaborations. Let's grow together!
 
+---
 
-
-## 💼 Technical Skills
+💼 **Technical Arsenal**
 
 <p align="center">
   <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML"/>
@@ -33,14 +31,18 @@ I'm an aspiring frontend developer, passionate about web technologies and always
   <img src="https://img.icons8.com/color/30/mysql.png" alt="Mysql"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67" alt="Streak Stats" />
+</p>
 
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact)
+💌 **Let's Connect**
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jen67)
+Whether it's for collaboration, questions, or just a friendly chat, I'm here!
 
-## 💌 Connect With Me
+- 📧 [Email](mailto:amakrigift2000@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gift-amachree-8a523623b/)
 
-If you're interested in collaborating, have any questions, or simply want to connect, feel free to [drop me a message](mailto:amakrigift2000@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gift-amachree-8a523623b/).
-
-**Gift Amachree** - _Turning caffeine into code, one line at a time_ ☕️
+<p align="center">💡 _Turning caffeine into code, one line at a time_ ☕️</p>
