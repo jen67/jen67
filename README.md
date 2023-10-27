@@ -1,6 +1,5 @@
 <h1 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
 <p align="center">🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner</p>
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
