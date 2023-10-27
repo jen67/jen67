@@ -5,6 +5,7 @@
 <h1 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
 I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things.
 
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" alt="Frontend Developer">
