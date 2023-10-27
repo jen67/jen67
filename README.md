@@ -11,17 +11,17 @@
 
 
 ## 🔧 Stacks
-
 <p>
-  <span><img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://img.icons8.com/color/30/css3.png" alt="CSS3"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://img.icons8.com/color/30/react-native.png" alt="React"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://img.icons8.com/color/30/c-programming.png" alt="C Language"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://img.icons8.com/color/30/python.png" alt="Python"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://img.icons8.com/color/30/mysql.png" alt="MySQL"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://img.icons8.com/color/30/console.png" alt="Bash"/></span>
+  <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC" alt="C Language"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25" alt="Bash"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1" alt="Mysql"/></a>
 </p>
+
 
 
 
