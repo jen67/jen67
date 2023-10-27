@@ -27,16 +27,17 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 
 <h3>🔧 Tech Stack</h3>
 
-<p>
-- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML` 
-- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS` 
-- ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript` 
-- ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning) 
-- ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language`
-- ![Python](https://img.icons8.com/color/20/python.png) `Python` 
-- ![MySQL](https://img.icons8.com/color/20/mysql.png) [MySQL](https://www.mysql.com/)
-- ![Console](https://img.icons8.com/color/20/console.png) `Bash`
+<p align="center">
+  <span><img src="https://img.icons8.com/color/20/html-5.png" alt="HTML5"/> <b>HTML</b></span> &nbsp; 
+  <span><img src="https://img.icons8.com/color/20/css3.png" alt="CSS3"/> <b>CSS</b></span> &nbsp; 
+  <span><img src="https://img.icons8.com/color/20/javascript.png" alt="JavaScript"/> <b>JavaScript</b></span> &nbsp; 
+  <span><img src="https://img.icons8.com/color/20/react-native.png" alt="React"/> <b>React</b> (Learning)</span> &nbsp; 
+  <span><img src="https://img.icons8.com/color/20/c-programming.png" alt="C Language"/> <b>C Language</b></span> &nbsp; 
+  <span><img src="https://img.icons8.com/color/20/python.png" alt="Python"/> <b>Python</b></span> &nbsp; 
+  <span><img src="https://img.icons8.com/color/20/mysql.png" alt="MySQL"/> <b><a href="https://www.mysql.com/">MySQL</a></b></span> &nbsp; 
+  <span><img src="https://img.icons8.com/color/20/console.png" alt="Bash"/> <b>Bash</b></span>
 </p>
+
 
 ---
 
