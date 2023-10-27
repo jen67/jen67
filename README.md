@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm [Gift Amachree](https://github.com/jen67)
  
-- 🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner
+### 🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner 
 
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
