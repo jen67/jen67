@@ -8,10 +8,6 @@ I'm an aspiring frontend developer, passionate about web technologies and always
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67" alt="Streak Stats" />
-</p>
-
 ---
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
