@@ -39,12 +39,9 @@
 If you're interested in collaborating, have any questions, or simply want to connect, feel free to
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@JenniferAm96723-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JenniferAm96723)](https://twitter.com/JenniferAm96723)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-GiftAmachree-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gift-amachree-8a523623b/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Mail Badge](https://img.shields.io/badge/-amakrigift2000-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amakrigift2000@gmail.com)
-
+[![Twitter Badge](https://img.shields.io/badge/-&nbsp;&nbsp;@JenniferAm96723&nbsp;&nbsp;-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JenniferAm96723)](https://twitter.com/JenniferAm96723)
+[![Linkedin Badge](https://img.shields.io/badge/-&nbsp;GiftAmachree&nbsp;-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gift-amachree-8a523623b/)
+[![Mail Badge](https://img.shields.io/badge/-&nbsp;amakrigift2000&nbsp;-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amakrigift2000@gmail.com)
 
 
 
