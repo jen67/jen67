@@ -1,7 +1,7 @@
-<h1 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
+<h1 >Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h1>
 <p align="center">🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner</p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
 </p>
 
@@ -15,18 +15,19 @@
 
 <h3>🔧 Tech Stack</h3>
 
-<h3 align="center">🔧 Tech Stack</h3>
+<h3>🔧 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/30/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/30/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/30/c-programming.png" alt="C Language"/>
-  <img src="https://img.icons8.com/color/30/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/30/mysql.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/30/console.png" alt="Bash"/>
+  <span><img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://img.icons8.com/color/30/css3.png" alt="CSS3"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://img.icons8.com/color/30/react-native.png" alt="React"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://img.icons8.com/color/30/c-programming.png" alt="C Language"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://img.icons8.com/color/30/python.png" alt="Python"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://img.icons8.com/color/30/mysql.png" alt="MySQL"/></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://img.icons8.com/color/30/console.png" alt="Bash"/></span>
 </p>
+
 
 ---
 
