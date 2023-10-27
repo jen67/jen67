@@ -22,9 +22,9 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - ![MySQL](https://img.icons8.com/color/20/mysql.png)  `Mysql`
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&line_height=27" alt="jen67's GitHub Stats" style="width: 50%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&hide_border=true" alt="jen67's Most Used Languages" style="width: 50%; height: auto;" />
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&line_height=27" alt="jen67's GitHub Stats" style="width: 49%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&hide_border=true" alt="jen67's Most Used Languages" style="width: 49%; height: auto;" />
   </div>
 </div>
 
