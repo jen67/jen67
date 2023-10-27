@@ -1,48 +1,52 @@
-<h1 align="center">Hi there, I'm Gift Amachree 👋</h1>
-
-<h3 align="center">🚀 Frontend Developer | Lifelong Learner | Tech Enthusiast 🌐</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" alt="Gift's GitHub stats" />
+  <img src="YOUR_PROFILE_PICTURE_LINK" alt="Gift's Avatar" width="150">
+</p>
+
+<h2 align="center">Hello, World! 👋 I'm <a href="https://github.com/jen67">Gift Amachree</a></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge" alt="Lifelong Learner">
 </p>
 
 ---
 
-🔍 **About Me**
+🖥️ **Crafting the Web**: I'm super passionate about web technologies. Always on the lookout for fresh and innovative ideas!
 
-I'm an aspiring frontend developer with a knack for web technologies. My journey is fueled by my love for learning and my commitment to pushing the boundaries of what I know.
+📚 **Lifelong Learning**: Diving deep into `React` and always eager to soak up more. The journey never ends!
 
-- 🛠 **Skills**: Crafting user-friendly interfaces with `HTML`, `CSS`, and `JavaScript`.
-- 📘 **Current Focus**: Deep diving into `React` to elevate my frontend game.
-- 🤝 **Open Doors**: On the lookout for internships & collaborations. Let's grow together!
+🌐 **Let's Collaborate**: Got a cool project? I'm all ears! Let's transform those ideas into digital reality.
 
 ---
 
-💼 **Technical Arsenal**
+<h3>🔧 Tech Stack</h3>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/30/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/30/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/30/c-programming.png" alt="C Language"/>
-  <img src="https://img.icons8.com/color/30/console.png" alt="Bash"/>
-  <img src="https://img.icons8.com/color/30/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/30/mysql.png" alt="Mysql"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67" alt="Streak Stats" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Language"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
 </p>
 
 ---
 
-💌 **Let's Connect**
+<h3>📊 GitHub Stats</h3>
 
-Whether it's for collaboration, questions, or just a friendly chat, I'm here!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- 📧 [Email](mailto:amakrigift2000@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gift-amachree-8a523623b/)
+---
 
-<p align="center">💡 _Turning caffeine into code, one line at a time_ ☕️</p>
+<h3>🔗 Connect With Me</h3>
+
+<p>
+  <a href="mailto:amakrigift2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/gift-amachree-8a523623b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<h4 align="center">Turning caffeine into code, one line at a time ☕</h4>
