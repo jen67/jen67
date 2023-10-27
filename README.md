@@ -12,8 +12,8 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 
 ## 💼 Technical Skills
 
-- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML`
-- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS`
+- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML` 
+- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS` 
 - ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript`
 - ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning)
 - ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language`
@@ -21,12 +21,10 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - ![Python](https://img.icons8.com/color/20/python.png)  `Python`
 - ![MySQL](https://img.icons8.com/color/20/mysql.png)  `Mysql`
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" align="left" style="width: 100%" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact" align="left" style="width: 100%" /></td>
-  </tr>
-</table>
+
+![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jen67)
 
