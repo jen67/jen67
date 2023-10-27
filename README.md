@@ -31,7 +31,7 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&theme=radical" alt="Top Languages" />
 </p>
