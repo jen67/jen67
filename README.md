@@ -21,16 +21,9 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - ![Python](https://img.icons8.com/color/20/python.png)  `Python`
 - ![MySQL](https://img.icons8.com/color/20/mysql.png)  `Mysql`
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&line_height=27" align="left" style="width: 100%;" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&hide_border=true" align="left" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact)
+
+![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jen67)
 
