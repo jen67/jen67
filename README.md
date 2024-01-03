@@ -15,6 +15,7 @@
 <p>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699" alt="SCSS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC" alt="C Language"/></a>
