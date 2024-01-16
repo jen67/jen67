@@ -22,6 +22,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25" alt="Bash"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1" alt="Mysql"/></a>
+ <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"/></a>
 </p>
 
 
