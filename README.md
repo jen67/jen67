@@ -1,4 +1,4 @@
-![My image](https://github.com/jen67/portfolio/blob/main/gif1.gif)
+![My image](https://github.com/jen67/portfolio/blob/main/gif2.gif)
 
 # Hello, World! 👋 I'm [Gift Amachree](https://github.com/jen67)
  
