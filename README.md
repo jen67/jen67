@@ -35,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true&theme=radical" width="480" alt="Gift's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
+ <img src="https://img.shields.io/github/contributors/jen67/jen67?style=flat-square" alt="GitHub stats" />
 </p>
 
 
