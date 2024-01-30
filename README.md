@@ -1,6 +1,5 @@
 ![My image](https://github.com/jen67/portfolio/blob/main/gif.gif)
 
-
 # Hello, World! 👋 I'm [Gift Amachree](https://github.com/jen67)
  
  **🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner**
@@ -41,7 +40,7 @@
 
 ## 🔗 Connect With Me
 
-If you're interested in collaborating, have any questions, or simply want to connect, feel free to
+> If you're interested in collaborating, have any questions, or simply want to connect, feel free to
 
 
 <p>
