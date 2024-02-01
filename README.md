@@ -1,6 +1,5 @@
 ![My image](https://github.com/jen67/portfolio/blob/main/gif.gif)
 
-
 # Hello, World! 👋 I'm [Gift Amachree](https://github.com/jen67)
  
  **🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner**
