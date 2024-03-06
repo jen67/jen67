@@ -11,7 +11,7 @@
 - 📘 **Lifelong Learner**: Currently diving deep into `React` to further enhance my frontend development skills.
 - 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
 - 🔍 **Open for Collaboration**: If you have a project that aligns with my skills, I'd love to collaborate. Let's learn and grow together!
-
+- 📖 **Software Engineering Student at ALX**: Specializing in Frontend.
 
 ## 🔧 Stacks
 <br />
