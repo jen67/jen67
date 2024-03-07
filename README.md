@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2a6f97&size=30&center=true&vCenter=true&width=600&lines=Welcome+to+Gift+Amachree's+GitHub;Coding+Enthusiast;Frontend+Developer;ALX+Software+Engineering+Student;Always+Learning">
-</div>
+![My image](https://github.com/jen67/portfolio/blob/main/gif.gif)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="Coding GIF" width="1000" >
+  <img src="https://readme-typing-svg.herokuapp.com?color=2a6f97&size=50&center=true&vCenter=true&width=1000&lines=Welcome+to+Gift+Amachree's+GitHub;Coding+Enthusiast;Frontend+Developer;ALX+Software+Engineering+Student;Always+Learning">
 </div>
 
-## About Me
+# About Me
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
 - 📘 **Lifelong Learner**: Currently diving deep into `React` to further enhance my frontend development skills.
