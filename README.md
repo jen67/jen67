@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=2a6f97&size=50&center=true&vCenter=true&width=1000&lines=Welcome+to+Gift+Amachree's+GitHub+%F0%9F%91%8B;Coding+Enthusiast;Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;ALX+Software+Engineering+Student+%F0%9F%93%9A;Always+Learning+%F0%9F%8C%9F">
 </div>
 
+
 # About Me
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
