@@ -39,7 +39,7 @@
 
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jen67&custom_title=jen67's%20GitHub%20Activity%20Graph&bg_color=10439F&color=874CCC&line=C65BCF&point=F27BBD&area_color=874CCC&title_color=F27BBD&area=true" alt="jen67's Github Activity Graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jen67&custom_title=jen67's%20GitHub%20Activity%20Graph&bg_color=000000&color=874CCC&line=C65BCF&point=F27BBD&area_color=874CCC&title_color=F27BBD&area=true" alt="jen67's Github Activity Graph" width="100%">
 </div>
 
 ## 🔗 Connect With Me
