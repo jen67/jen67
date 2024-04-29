@@ -37,6 +37,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=radical" alt="Streak Stats" />
 </p>
 
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jen67&custom_title=jen67's%20GitHub%20Activity%20Graph&bg_color=10439F&color=874CCC&line=C65BCF&point=F27BBD&area_color=874CCC&title_color=F27BBD&area=true" alt="jen67's Github Activity Graph" width="100%">
+</div>
+
 ## 🔗 Connect With Me
 
 If you're interested in collaborating, have any questions, or simply want to connect, feel free to
