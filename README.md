@@ -11,6 +11,7 @@
 - 🚀 **Looking for Opportunities**: I'm on the lookout for internships to harness my skills and knowledge to the best. An environment where I can collaborate and grow professionally is what I aim for.
 - 📖 **Software Engineering Graduate at ALX**: Specialized in Frontend developement.
 
+
 ## 🔧 Stacks
 
 <br />
